@@ -1,0 +1,12 @@
+C:\Users\matheus\source\repos\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\matheus\source\repos\Hotel\bin\Debug\Hotel.exe
+C:\Users\matheus\source\repos\Hotel\bin\Debug\Hotel.pdb
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.exe
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.pdb
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.FrmLogin.resources
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.FrmMenu.resources
+C:\Users\matheus\source\repos\Hotel\obj\Debug\Hotel.Cadastro.FrmFuncionario.resources

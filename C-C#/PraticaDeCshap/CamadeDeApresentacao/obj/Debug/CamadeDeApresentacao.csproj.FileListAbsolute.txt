@@ -1,0 +1,14 @@
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadeDeApresentacao.dll.config
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadeDeApresentacao.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadeDeApresentacao.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadaDeNegocio.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadaDeDados.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\bin\Debug\CamadaDeDados.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.csprojAssemblyReference.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.frmCategoria.resources
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.csproj.GenerateResource.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.csproj.CopyComplete
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadeDeApresentacao\obj\Debug\CamadeDeApresentacao.pdb

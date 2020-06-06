@@ -1,0 +1,6 @@
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadaDeDados\bin\Debug\CamadaDeDados.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadaDeDados\bin\Debug\CamadaDeDados.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadaDeDados\obj\Debug\CamadaDeDados.csprojAssemblyReference.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadaDeDados\obj\Debug\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadaDeDados\obj\Debug\CamadaDeDados.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\CamadaDeDados\obj\Debug\CamadaDeDados.pdb

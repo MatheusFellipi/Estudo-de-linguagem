@@ -1,0 +1,15 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ListaDuplamanteLingada", "..\ListaDuplamanteLingada\ListaDuplamanteLingada.vcxitems", "{FD0197DE-417E-496E-9C6F-CB53A24857B3}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61F90A6F-A22D-4764-8D4E-D366A5C189A6}
+	EndGlobalSection
+EndGlobal

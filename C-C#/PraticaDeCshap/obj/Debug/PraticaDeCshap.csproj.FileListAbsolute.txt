@@ -1,0 +1,17 @@
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\PraticaDeCshap.exe.config
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\PraticaDeCshap.exe
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\PraticaDeCshap.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.csprojAssemblyReference.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.Properties.Resources.resources
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.csproj.GenerateResource.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.csproj.CoreCompileInputs.cache
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.exe
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadeDeApresentacao.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadaDeNegocio.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadaDeDados.dll
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadeDeApresentacao.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadeDeApresentacao.dll.config
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadaDeNegocio.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\bin\Debug\CamadaDeDados.pdb
+C:\Users\matheus\source\repos\PraticaDeCshap\obj\Debug\PraticaDeCshap.csproj.CopyComplete
